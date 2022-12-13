@@ -1,0 +1,14 @@
+1)whoami --> shows the user name
+2)pwd --> shows the directory
+3)cd(change directory) --> change directory to a new directory(go to some folder)
+4)ls(list) --> list the content of current directory
+5)mkdir(create folder) --> make directory
+6)touch --> create file
+7)cd.. --> go back
+8)vim --> edit the text 
+9)wq --> save and quit
+10)cat --> shows the content of the file
+11)clear --> clears the history actions
+12)exit --> exit the
+13)
+14)
